@@ -1,0 +1,44 @@
+/* header styles */
+h1 {
+	font-size: 2rem; /* Adjusted font size */
+	text-align: center;
+  }
+  
+  header p {
+	font-size: 1.2rem; /* Adjusted font size */
+	font-weight: bold;
+	text-align: center;
+  }
+  
+  /* section styles */
+  section {
+	  display: flex;
+	  justify-content: center;
+	  margin-bottom: 5rem;
+  }
+  section article {
+	  border: 1px solid black;
+	  box-shadow: 0 2px 14px grey;
+	  padding: 2.5%;
+	  width: 30%; /* Adjusted width */
+	  margin: 0 1%;
+  }
+  article img {
+	  display: block;
+	  height: 0; /* Adjusted height */
+	  width: 40vh; /* Let the width adjust proportionally */
+	  margin: 0 auto; /* Center the images */
+  }
+  section p {
+	margin: 5px 0;
+  }
+  
+  section ul {
+	margin-top: 0;
+  }
+  
+  h2 {
+	font-size: 2rem; /* Adjusted font size */
+	margin-bottom: 10px;
+  }
+  
